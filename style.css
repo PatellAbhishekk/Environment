@@ -78,6 +78,9 @@ a:hover {
     padding: 10px;
     margin: 10px auto;
   }
+  .box1 h3{
+    width: 37%;
+  }
 }
 .box1 img {
   width: 170px;
